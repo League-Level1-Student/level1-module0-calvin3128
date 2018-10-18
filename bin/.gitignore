@@ -1,13 +1,18 @@
+/.DS_Store
 /BodyPartQuiz.class
 /DrumKit.class
 /DuelingButtons.class
+/FortuneCookie.class
 /MyFirstSwingGUI.class
 /PhotoQuiz.class
+/Pong/
+/Raindrop/
 /Recipes.html
 /arnold.jpeg
 /cymbal.jpg
 /cymbal.wav
 /drum.wav
+/drums.jpg
 /extra/
 /homer-woohoo.wav
 /jack.jpeg
@@ -17,6 +22,4 @@
 /morgan.jpeg
 /sawing-wood-daniel_simon.wav
 /snare.jpg
-/drums.jpg
-/.DS_Store
-/FortuneCookie.class
+/sensitivekeyboard.class
